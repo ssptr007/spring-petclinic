@@ -44,7 +44,7 @@ See below for more details.
 
 There is no `Dockerfile` in this project. You can build a container image (if you have a docker daemon) using the Spring Boot build plugin:
 
-## Running the Container Image
+## Running the Container Image.
 
 ```bash
 ./mvnw spring-boot:build-image
